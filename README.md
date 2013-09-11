@@ -7,3 +7,4 @@ Repositorio para treinar git
 Integrantes:
 -------------
  * Lucianna
+ * Arruda
