@@ -6,3 +6,4 @@ Repositorio para treinar git
 
 Integrantes:
 -------------
+ * Arruda
