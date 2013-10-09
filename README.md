@@ -11,3 +11,4 @@ Integrantes:
  * Caroline
  * Arruda
  * Matheus
+ * Tainá
