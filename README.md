@@ -12,5 +12,5 @@ Integrantes:
  * Arruda
  * Matheus
  * Tainá 
- * Insira seu nome aqui
+ * (Insira seu nome aqui)
  
